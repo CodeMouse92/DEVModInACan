@@ -8,6 +8,8 @@ Canned moderation responses for the [DEV Community](https://dev.to/).
 
 Community and Tag Moderators on DEV often encounter the same sorts of situations over and over. Canned responses make our jobs a lot easier, especially when it comes to adding and removing tags, or addressing common situations in comments.
 
+I started keeping a file of my canned reponses, eventually migrating it to Gist for easier access, and to help out other tag moderators on DEV. The only trouble was, I was the only one who could really edit it. Not very useful for everyone else!
+
 This repository is an attempt to collect all the best canned moderation responses into one repository. This is the continuation of [this Gist](https://gist.github.com/CodeMouse92/97f92e12dfa6d766069ad0ccb87e827c). By using a repository, not only is the history of the comments more easily tracked, but other moderators can also suggest revisions and add their own comments.
 
 ## Repository Structure
