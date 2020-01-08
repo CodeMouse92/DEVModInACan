@@ -25,3 +25,14 @@ The next canned response belongs here.
 
 Tag names should be wrapped in backticks `#likethis`, and link to the tag if possible.
 ```
+
+## Issues
+
+Issues should be used for anything that warrants a proper discussion, instead of just an immediate change. This includes:
+
+* Broad adjustments to tone or policy that will affect multiple existant responses.
+* Changes to repository structure.
+
+Most of the time, it's easier just to make a Pull Request and AFNP (Ask Forgiveness Not Permission). ;)
+
+***Please do not use Issues for minor fixes, such as typos;*** create a Pull Request for those situations instead.
