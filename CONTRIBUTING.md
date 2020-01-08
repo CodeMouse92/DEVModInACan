@@ -8,8 +8,6 @@ If you want to add a canned response, or revise one that's already present, plea
 
 * Ensure any responses are added to the appropriate directories and files, following the repository structure outlined in `README.md`.
 
-* Add new files to `index.html` for easier browsing, following the convention already present in that file.
-
 * Files should follow this format:
 
 ```
