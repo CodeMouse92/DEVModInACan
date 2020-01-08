@@ -4,11 +4,13 @@ If you want to add a canned response, or revise one that's already present, plea
 
 ## Pull Requests
 
-All canned responses must follow the DEV [Code of Conduct](https://dev.to/code-of-conduct), as well as any policies and practices outlined in the [Comunity Moderation Guide](https://dev.to/community-moderation) and [Tag Moderation Guide](https://dev.to/tag-moderation).
+* All canned responses must follow the DEV [Code of Conduct](https://dev.to/code-of-conduct), as well as any policies and practices outlined in the [Comunity Moderation Guide](https://dev.to/community-moderation) and [Tag Moderation Guide](https://dev.to/tag-moderation).
 
-Ensure any responses are added to the appropriate directories and files, following the repository structure outlined in `README.md`.
+* Ensure any responses are added to the appropriate directories and files, following the repository structure outlined in `README.md`.
 
-Files should follow this format:
+* Add new files to `index.html` for easier browsing, following the convention already present in that file.
+
+* Files should follow this format:
 
 ```
 # Response Category (e.g. `#beginners` Tag Adjustments)
