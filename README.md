@@ -2,7 +2,7 @@
 
 Canned moderation responses for the [DEV Community](https://dev.to/).
 
-<img src=https://github.com/CodeMouse92/DEVModInACan/blob/master/DEVCannedComments.svg width=300vw/>
+<img src=https://github.com/CodeMouse92/DEVModInACan/blob/master/modinacan-logo.svg width=300vw/>
 
 ## Purpose
 
