@@ -42,7 +42,7 @@
      id="namedview37"
      showgrid="false"
      inkscape:zoom="1.5306697"
-     inkscape:cx="254.2756"
+     inkscape:cx="292.16751"
      inkscape:cy="226.54015"
      inkscape:window-x="0"
      inkscape:window-y="36"
@@ -133,15 +133,15 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.58399963px;font-family:Quercus;-inkscape-font-specification:'Quercus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.76882958">premium</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.58399963px;line-height:1.25;font-family:Quercus;-inkscape-font-specification:'Quercus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.76882958"
-       x="311.36853"
-       y="482.16989"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13282204px;line-height:1.25;font-family:Quercus;-inkscape-font-specification:'Quercus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.50998688"
+       x="330.69617"
+       y="473.45255"
        id="text926-6"><tspan
          sodipodi:role="line"
          id="tspan924-4"
-         x="311.36853"
-         y="482.16989"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.58399963px;font-family:Quercus;-inkscape-font-specification:'Quercus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.76882958">in natural oils</tspan></text>
+         x="330.69617"
+         y="473.45255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13282204px;font-family:Quercus;-inkscape-font-specification:'Quercus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.50998688">with natural</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5277586px;line-height:1.25;font-family:Quercus;-inkscape-font-specification:'Quercus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.86459631"
@@ -172,5 +172,16 @@
          y="402.66788"
          id="tspan922-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.71818161px;font-family:'Titan One';-inkscape-font-specification:'Titan One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.38603127">MOD IN A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13282204px;line-height:1.25;font-family:Quercus;-inkscape-font-specification:'Quercus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.50998688"
+       x="305.07407"
+       y="495.37299"
+       id="text926-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan924-4-2"
+         x="305.07407"
+         y="495.37299"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.13282204px;font-family:Quercus;-inkscape-font-specification:'Quercus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.50998688">markdown flavor</tspan></text>
   </g>
 </svg>
