@@ -1,4 +1,4 @@
-<img src=https://github.com/CodeMouse92/DEVModInACan/blob/master/modinacan-logo.svg width=300vw>
+<img src=https://github.com/CodeMouse92/DEVModInACan/blob/master/modinacan-logo.svg width=50%>
 
 Community and Tag Moderators on DEV often encounter the same sorts of situations over and over. Canned responses make our jobs a lot easier, especially when it comes to adding and removing tags, or addressing common situations in comments.
 
