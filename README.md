@@ -1,4 +1,4 @@
-# DEVCannedMod
+# DEV Mod In A Can
 
 Canned moderation responses for the [DEV Community](https://dev.to/).
 
