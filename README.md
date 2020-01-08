@@ -12,9 +12,9 @@ This repository is an attempt to collect all the best canned moderation response
 
 ## Repository Structure
 
-The `community` directory contains files that correspond to common scenarios, such as `community/conduct.md` and `community/promotional.md`.
+The `community` directory contains files that correspond to common scenarios, such as `community/promotional.md`. Tag *suggestion* comments (versus adjustment messages) are also here.
 
-The `tag-mod` directory contains files that correspond to DEV tags. For example, canned responses for moderating the `#beginners` tag are in `tag-mod/beginners.md`.
+The `tag-mod` directory is for tag adjustment responses. It contains files that correspond to DEV tags. For example, canned responses for tag adjustments on the `#beginners` tag are in `tag-mod/beginners.md`.
 
 ## Usage
 

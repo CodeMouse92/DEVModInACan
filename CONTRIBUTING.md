@@ -11,13 +11,17 @@ Ensure any responses are added to the appropriate directories and files, followi
 Files should follow this format:
 
 ```
-# Response Category (e.g. #BEGINNERS TAG ADJUSTMENTS)
+# Response Category (e.g. `#beginners` Tag Adjustments)
 
 ## Response Purpose
 
-The canned response belongs here, using DEV's flavor of Markdown.
+The canned response belongs here, using DEV's flavor of Markdown. Use only soft wrapping!
 
-## Reponse Purpose
+## Another Response Purpose
 
-The next canned response belongs here. Tag names should be wrapped in backticks `#likethis`.
+The next canned response belongs here.
+
+## Yet Another Response Purpose
+
+Tag names should be wrapped in backticks `#likethis`, and link to the tag if possible.
 ```
