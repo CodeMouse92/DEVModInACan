@@ -1,4 +1,4 @@
-<img src={{ site.url }}/modinacan-logo.svg width=200vw class="inline">
+<img src=/modinacan-logo.svg width=300vw>
 
 Community and Tag Moderators on DEV often encounter the same sorts of situations over and over. Canned responses make our jobs a lot easier, especially when it comes to adding and removing tags, or addressing common situations in comments.
 
