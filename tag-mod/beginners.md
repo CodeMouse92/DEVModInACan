@@ -6,7 +6,11 @@ All articles on `#beginners` should be written for those new to programming, dev
 
 ## Non-Beginner Question
 
-Questions on `#beginners` are welcome, but should be seeking answers assume no prerequisite knowledge. (Read more about the tag changes [here](https://dev.to/codemouse92/updated-beginner-tag-guidelines-1m2e).)
+Questions on `#beginners` are welcome, but should be seeking answers assume no prerequisite knowledge. (Read more about the tag rules [here](https://dev.to/codemouse92/updated-beginner-tag-guidelines-1m2e).)
+
+## Affiliate Links
+
+Affiliate links are not permitted on the `#beginners` tag. You must use the exact same URLs that anyone else could provide. (Read more about the tag rules [here](https://dev.to/codemouse92/updated-beginner-tag-guidelines-1m2e).)
 
 ## Linkback Only
 
