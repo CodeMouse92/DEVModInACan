@@ -1,5 +1,9 @@
 # `#opensource` Tag Adjustments
 
+## FOSS Listing
+
+Brief open source project announcements or promotions should be on [Listings](https://dev.to/listings) instead. #opensource is specifically for articles about Open Source and Free Software as a philosophy, and its application to software development and project management. (Read more about the tag rules [here](https://dev.to/codemouse92/updated-opensource-tag-guidelines-55m5))
+
 ## FOSS Promotional
 
 Posts which promote an open source project, such as feature lists or announcements, should use the [`#showdev`](https://dev.to/t/showdev) tag and/or [Listings](https://dev.to/listings) instead. #opensource is specifically for articles about Open Source and Free Software as a philosophy, and its application to software development and project management. (Read more about the tag rules [here](https://dev.to/codemouse92/updated-opensource-tag-guidelines-55m5))
