@@ -26,7 +26,7 @@ Tutorials or articles that happen to use open source technology should only use 
 
 ## Roundup
 
-"Roundups" or other lists of open source projects should now use the appropriate technology tags instead, and/or the [`#githunt`](https://dev.to/t/githunt) tag if appropriate. `#opensource` is specifically for articles about Open Source and Free Software as a philosophy, and its application to software development and project management. (Read more about the tag rules [here](https://dev.to/codemouse92/updated-opensource-tag-guidelines-55m5))
+"Roundups" or other lists of open source projects should use the appropriate technology tags instead, and/or the [`#githunt`](https://dev.to/t/githunt) tag if appropriate. `#opensource` is specifically for articles about Open Source and Free Software as a philosophy, and its application to software development and project management. (Read more about the tag rules [here](https://dev.to/codemouse92/updated-opensource-tag-guidelines-55m5))
 
 ## Mis-tag: #githunt
 
