@@ -56,6 +56,19 @@ Hope you'll consider sharing the full post going forward.
 
 Thank you.
 
+## Video post - content too short (comment)
+
+Hi there, `#productivity` mod here.
+We encourage authors of video posts to add at least a short textual summary of the content, so that a reader has a rough idea of what to expect from the video. It also helps the post to be more easily found through searches.
+
+Also the relevant part from the [Terms of Use](https://dev.to/terms):
+
+> Users must make a good-faith effort to share content that is... Additionally, posts must contain substantial content — they may not merely reference an external link that contains the full post.
+
+Can you please edit your post and add that?
+
+Thank you.
+
 ## Roundup
 
 "Roundups" or other lists of tools or articles regarding productivity should now use the appropriate technology tags instead. From posts with the tag `#productivity` we expect tips on how to use tools and software, process optimization, useful references, experience, and mindstate optimization.
