@@ -51,3 +51,7 @@ Hope this helps!
 ## Requesting Work/Project
 
 Please use [listings](https://dev.to/listings) for posts requesting projects or work. Thank you.
+
+## NFT promotion
+
+It would be better if you share this on [MetaPunk](https://www.metapunk.to/), part of the Forem network of communities, dedicated to this topic - there's no coding content to this post, so it is less suitable for DEV.
