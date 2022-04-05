@@ -10,7 +10,7 @@ If you want to add a canned response, or revise one that's already present, plea
 
 * Files should follow this format:
 
-```
+```text
 # Response Category (e.g. `#beginners` Tag Adjustments)
 
 ## Response Purpose
